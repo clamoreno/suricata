@@ -1,0 +1,13 @@
+Body{
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.bg-pink{
+    background-color: #E83E8C;
+}
+h1, h2, h5{
+    font-weight: 700;
+}
+a, li, p{
+    font-weight: 400;
+}
